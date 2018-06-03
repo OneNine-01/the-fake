@@ -10,7 +10,7 @@ You need cpanel here.
 Ex: *.yourdomain.com
 
 Setup The-Fake:
-$git clone https://github.com/soracyberteam/the-fake/
+$git clone https://github.com/OneNine-01/the-fake/
 $cd the-fake
 $chmod 777 setup.sh
 $./setup.sh
